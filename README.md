@@ -2,18 +2,11 @@
  Micro:Bit
  https://microbit.org/
  
- MakeCode for Micro:Bit 
+ MakeCode
  https://makecode.microbit.org/ (used to open .HEX files)
 
- Micro:Bot Kit (for Moto:Bit)
- https://www.sparkfun.com/products/16275
+ Micro:Bot Kit 
+ https://www.sparkfun.com/products/16275 (for Moto:Bit)
  
- Micro:Arcade Kit (for Gamer:Bit)
- https://www.sparkfun.com/products/16403
- 
- 
- 
- 
- 
- 
- 
+ Micro:Arcade Kit 
+ https://www.sparkfun.com/products/16403 (for Gamer:Bit)
